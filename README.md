@@ -1,9 +1,11 @@
-# PixelOS amd64 Remix
+# PixelOS amd64 Remix 
 
 ![Syntax Check](https://github.com/LukeLeFox/pixelos-amd64-remix/actions/workflows/syntax-check.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![Target](https://img.shields.io/badge/target-Debian%2013%20amd64-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+<h3 align="center"><strong><em>Vibecoded with ❤️ by Luke and ChatGPT</em></strong></h3>
 
 Unofficial post-install tooling to build a Raspberry Pi Desktop / PIXEL-like environment on a clean Debian 13 Trixie amd64 installation.
 
